@@ -117,20 +117,6 @@ The analysis provides insights into:
 
 ---
 
-## Dashboard Preview
-
-The interactive Power BI dashboard presents marketing performance data in a clear and user-friendly format.
-
-### Dashboard Overview
-
-![Dashboard Overview](Images/Dashboard_Overview.png)
-
-### Dashboard Insights
-
-![Dashboard Insights](Images/Dashboard_Insights.png)
-
----
-
 ## Skills Demonstrated
 
 - Data Cleaning
